@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Camera, CameraResultType, CameraSource } from '@capacitor/core';
 import { PhotoService } from '../services/photo.service';
 
 @Component({
